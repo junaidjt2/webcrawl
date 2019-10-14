@@ -1,6 +1,7 @@
 # webcrawl
 All the settings are according to Ubuntu operating system
 •	Install python 3.
+</br>
 •	Install pycharm.
 •	Install MYSQL.
 •	Install SQL client (to see the result).
